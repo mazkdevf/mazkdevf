@@ -24,6 +24,9 @@
 [<img align="left" alt="MySQL" width="22px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />][sql]
 
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazk5145)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 
 [website]: https://www.xashop.eu

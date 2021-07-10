@@ -20,7 +20,7 @@
 [<img align="left" alt="Visual studio Code" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png" />][vs]
 [<img align="left" alt="Visual studio 2019" width="22px" src="https://www.telerik.com/sfimages/default-source/blogs/visual_studio_2012_logo-png-png" />][vs19]
 [<img align="left" alt="JavaScript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />][js]
-[<img align="left" alt="Node.js" width="22px" src="https://w7.pngwing.com/pngs/322/725/png-transparent-node-js-javascript-npm-express-js-sharp-miscellaneous-angle-text-thumbnail.png" />][node]
+[<img align="left" alt="Node.js" width="22px" src="https://i.imgur.com/oDlZUhs.png" />][node]
 [<img align="left" alt="MySQL" width="22px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />][sql]
 
 <br />

@@ -1,4 +1,4 @@
-### Hi there, I'm Make - aka [mazk#5145][website]
+### Hi
 
 ## I'm Developer and Student!
 - 👻 I'm currently working on a Fivem Project named Poseidon [website2]!

@@ -5,7 +5,7 @@
 -----------------------------------
 
 ## **About me**
-- 🐳 I'm super **Friendly** / And i like to **help** people.
+- 🐳 I'm super **Friendly** / And I like to **help** people.
 - 🌜  **KeyAuth** Support Member
 - ⛅️ **Languages:** **C# - C++ - PHP - CSS**
 

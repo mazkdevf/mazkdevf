@@ -31,5 +31,5 @@
 
 -----------------------------------
 
-## **Need Help with developement?**
+## **💻 Need Help with developement? ⌨️**
 [![Code Nation Discord](https://github.com/mazk5145/mazk9154-Information/blob/main/Images/keyauthdiscordlogo.png?raw=true)](https://discord.gg/2k2Mq8RwSZ)

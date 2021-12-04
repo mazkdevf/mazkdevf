@@ -29,3 +29,7 @@
 [![KeyAuth.win](https://github.com/mazk5145/mazk9154-Information/blob/main/Images/keyauthwinlogo.png?raw=true)](https://keyauth.win)
 [![KeyAuth Discord](https://github.com/mazk5145/mazk9154-Information/blob/main/Images/keyauthdiscordlogo.png?raw=true)](https://keyauth.com/discord)
 
+-----------------------------------
+
+## **Need Help with developement?**
+[![Code Nation Discord](https://github.com/mazk5145/mazk9154-Information/blob/main/Images/keyauthdiscordlogo.png?raw=true)](https://discord.gg/2k2Mq8RwSZ)

@@ -20,6 +20,9 @@
   ![](https://visitor-badge.glitch.me/badge?page_id=mazk5145)
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
+
 -----------------------------------
 
 ## **🔒 Need Authentication For your project? 🔐**

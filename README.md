@@ -16,7 +16,7 @@
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazk5145&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=mazkdevf's Github Statistics&theme=great-gatsby" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazk5145&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=great-gatsby"/>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mazk5145&theme=great-gatsby"/>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mazk5145&theme=great-gatsby"/>
 </p>
 
 -----------------------------------

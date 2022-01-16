@@ -14,13 +14,10 @@
 ## 🌅 **Github Statistics**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazk5145&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazk5145&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mazk5145&theme=highcontrast"/>
-  
-  ![](https://visitor-badge.glitch.me/badge?page_id=mazk5145)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazk5145&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=mazkdevf's Github Statistics&theme=great-gatsby" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mazk5145&theme=great-gatsby"/>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazk5145&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=great-gatsby"/>
 </p>
-
 
 -----------------------------------
 
@@ -35,3 +32,7 @@
 
 ## **💻 Need Help with developement? 🖥**
 [![Code Nation Discord](https://github.com/mazk5145/mazk9154-Information/blob/main/Images/keyauthdiscordlogo.png?raw=true)](https://discord.gg/2k2Mq8RwSZ)
+
+-----------------------------------
+[![KeyAuth RedeemBot](https://github-readme-stats.vercel.app/api/pin/?username=mazk5145&theme=great-gatsby&repo=Keyauth-Redeem-Bot)](https://github.com/mazk5145/Keyauth-Redeem-Bot)
+[![CSharp Scripts](https://github-readme-stats.vercel.app/api/pin/?username=mazk5145&theme=great-gatsby&repo=C.SHARP-Scripts)](https://github.com/mazk5145/C.SHARP-Scripts)

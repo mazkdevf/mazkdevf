@@ -6,7 +6,7 @@
 
 ## **About me**
 - 🐳 I'm super **Friendly** / And I like to **help** people.
-- 🌜  **KeyAuth** Admin / Support Member
+- 🌜  **KeyAuth** Developer / Admin / Support Member
 - ⛅️ **Languages:** **C# - JS - PHP - CSS**
 
 -----------------------------------

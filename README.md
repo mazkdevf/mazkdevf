@@ -37,5 +37,4 @@
 
 [![](https://spotify-github-profile.vercel.app/api/view?uid=31sjmkzlvvdqfkw5likgbf3wbkv4&cover_image=true&theme=natemoo-re&bar_color=ff8800&bar_color_cover=false)](https://github.com/mazk5145)
 
-[![KeyAuth RedeemBot](https://github-readme-stats.vercel.app/api/pin/?username=mazk5145&theme=great-gatsby&repo=Keyauth-Redeem-Bot)](https://github.com/mazk5145/Keyauth-Redeem-Bot)
 [![CSharp Scripts](https://github-readme-stats.vercel.app/api/pin/?username=mazk5145&theme=great-gatsby&repo=C.SHARP-Scripts)](https://github.com/mazk5145/C.SHARP-Scripts)

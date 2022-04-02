@@ -25,7 +25,7 @@
 [![KeyAuth.com](https://github.com/mazk5145/mazk9154-Information/blob/main/Images/keyauthcomlogo.png?raw=true)](https://keyauth.com)
 [![KeyAuth.uk](https://github.com/mazk5145/mazk9154-Information/blob/main/Images/keyauthuklogo.png?raw=true)](https://keyauth.uk)
 [![KeyAuth.win](https://github.com/mazk5145/mazk9154-Information/blob/main/Images/keyauthwinlogo.png?raw=true)](https://keyauth.win)
-[![KeyAuth Discord](https://github.com/mazk5145/mazk9154-Information/blob/main/Images/keyauthdiscordlogo.png?raw=true)](https://keyauth.com/discord)
+[![KeyAuth Discord](https://discordapp.com/api/guilds/824397012685291520/embed.png)](https://keyauth.com/discord)
 
 -----------------------------------
 

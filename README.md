@@ -1,6 +1,5 @@
-## ***Hello!*, and Welcome to my profile 👻**
+## ***Hello*, and Welcome to my profile 👻**
 - I'm 16 Years old Developer, From Finland:)
-
 
 -----------------------------------
 
@@ -26,5 +25,3 @@
 -----------------------------------
 
 [![](https://spotify-github-profile.vercel.app/api/view?uid=31sjmkzlvvdqfkw5likgbf3wbkv4&cover_image=true&theme=natemoo-re&bar_color=ff8800&bar_color_cover=false)](https://github.com/mazk5145)
-
-[![CSharp Scripts](https://github-readme-stats.vercel.app/api/pin/?username=mazk5145&theme=great-gatsby&repo=C.SHARP-Scripts)](https://github.com/mazk5145/C.SHARP-Scripts)

@@ -13,7 +13,7 @@
 ## 🌅 **Github Statistics**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazk5145&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=mazkdevf's Github Statistics" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazk5145&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=mazkdevf%27s%20Github%20Statistics" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazk5145&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 

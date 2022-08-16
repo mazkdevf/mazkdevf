@@ -1,27 +1,13 @@
-## ***Hello*, and Welcome to my profile 👻**
-- I'm 16 Years old Developer, From Finland:)
+### HI, I'm mazkdevf 👋
 
------------------------------------
-
-## **About me**
-- 🐳 I'm super **Friendly** / And I like to **help** people.
-- 🌜  **KeyAuth** Developer / Admin
-- ⛅️ **Languages:** **C# - JS - PHP**
-
------------------------------------
-
-## 🌅 **Github Statistics**
+## I'm a Backend Developer, Student and Head Admin on KeyAuth
+- 🤯 I'm Friendly
+- 😲 I'm person who Likes to **Help** others.
+- 🤔 I'm Currently Learning **ReactJS** & **Linux** Basics
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazk5145&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=mazkdevf%27s%20Github%20Statistics" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazk5145&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazkdevf&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=mazkdevf%27s%20Github%20Statistics" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazkdevf&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 -----------------------------------
-
-## **💻 Need Help with developement? 🖥**
-[Code Nation](https://discord.gg/2k2Mq8RwSZ)
-
------------------------------------
-
-[![](https://spotify-github-profile.vercel.app/api/view?uid=31sjmkzlvvdqfkw5likgbf3wbkv4&cover_image=true&theme=natemoo-re&bar_color=ff8800&bar_color_cover=false)](https://github.com/mazk5145)

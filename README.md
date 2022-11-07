@@ -1,6 +1,6 @@
 ### HI, I'm mazkdevf 👋
 
-## I'm a Backend Developer, Student and Head Admin on KeyAuth
+## I'm a Backend Developer
 - 🤯 I'm Friendly
 - 😲 I'm person who Likes to **Help** others.
 - 🤔 I'm Currently Learning **ReactJS** & **Linux** Basics

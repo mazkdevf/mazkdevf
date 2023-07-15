@@ -1,9 +1,7 @@
 ### HI, I'm mazkdevf 👋
 
 ## I'm a Backend Developer
-- 🤯 I'm Friendly
-- 😲 I'm person who Likes to **Help** others.
-- 🤔 I'm Currently Learning **ReactJS** & **Linux** Basics
+- I have over 250 repositories actually, I just keep them private due to security reasons.
 
 
 <p>

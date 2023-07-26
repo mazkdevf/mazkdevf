@@ -23,7 +23,7 @@ In my spare time, I enjoy spending time with my family and friends, playing, bik
 
 * I am pleased to present **[dnsdumpster-sdk-js](https://github.com/mazkdevf/dnsdumpster-sdk-js)**, a JavaScript module (SDK) developed specifically for dnsdumpster.com. **(UNOFFICIAL SDK)!**
 
-* I'm Head Administrator, Backend Engineer and Partner for **[KeyAuth](https://github.com/KeyAuth)**, a organization. In this role, I undertook responsibilities related to administration, bot management, and backend development.
+* I'm Head Administrator, Backend Engineer and Partner for **[KeyAuth](https://github.com/KeyAuth)**, a project / organization. In this role, I undertook responsibilities related to administration, bot management, and backend development.
 
 **Contact**
 * For any inquiries, please feel free to contact me via email at **github@mazkdevf.it**.

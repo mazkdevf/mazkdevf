@@ -17,6 +17,8 @@ In my spare time, I enjoy spending time with my family and friends, playing, bik
 
 ## Projects
 
+* **[KeyAuth Telegram Bot](https://github.com/mazkdevf/keyauth-telegram-bot/)**, an KeyAuth open-source authentication Telegram Bot for communicating with Seller API (Generating licenses, managing subscriptions) etc. (NON OFFICIAL, BUT DEV TEAM MEMBER MADE)
+
 * Introducing **[KeyAuth-JS-Example](https://github.com/mazkdevf/KeyAuth-JS-Example)**, an KeyAuth open-source authentication SDK for JavaScript specifically designed for seamless installation, maintenance, and execution. 
 
 * I'm proud to introduce **[EducationGit](https://github.com/mazkdevf/EducationGit)**, a JavaScript class meticulously designed to empower developers with seamless access to the extensive benefits offered by the esteemed GitHub Education pack.

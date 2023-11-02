@@ -3,7 +3,7 @@
 
 #### **About me**
 
-I am a Backend Software Developer with a passion for building innovative and user-friendly products. I am proficient in a variety of programming languages and technologies, and I am always eager to learn new things.
+I am a FS Software Developer with a passion for building innovative and user-friendly products. I am proficient in a variety of programming languages and technologies, and I am always eager to learn new things.
 
 In my spare time, I enjoy spending time with my family and friends, playing, biking, and traveling.
 

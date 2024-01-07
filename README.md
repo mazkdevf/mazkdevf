@@ -9,9 +9,9 @@ In my spare time, I enjoy spending time with my family and friends, playing, bik
 
 **Skills**
 
-- Programming Languages (Most Used): JavaScript, PHP, C# (Basics), C++
-- Technologies (Most Used): NET Framework, NextJS, TailwindCSS, MYSQL, WordPress, Express.js, Nginx, Apache2
-- Cloud Engineering: Oracle Cloud, Azure DevOps, Netlify
+- Programming Languages (Most Used): JavaScript, TypeScript, PHP, C#, C++
+- Technologies (Most Used): NET Framework, NextJS, TailwindCSS, MYSQL, WordPress, Express.js, Nginx, Apache2, ASPNET MVC, MSSQL
+- Cloud Engineering: Oracle Cloud, Azure, Netlify
 - Tools: Git, GitHub, VSCode, Visual Studio, Android Studio, PHPMailer, Postman
 - Soft Skills: Communication, teamwork, problem-solving, marketing, social-media management
 

@@ -25,6 +25,12 @@ In my spare time, I enjoy spending time with my family and friends, playing, bik
 
 * I'm Head Administrator, Backend Engineer and Partner for **[KeyAuth](https://github.com/KeyAuth)**, a project / organization. In this role, I undertook responsibilities related to administration, bot management, and backend development.
 
+
+## Good Links!
+
+- **[Cyclic](https://app.cyclic.sh/#/join/mazkdevf)** - The free plan is great for prototyping new ideas, coming up with wild experiments, hosting personal projects, doing homework or building stuff for school. Best of all, it's free for a lifetime.
+
+
 **Contact**
 * For any inquiries, please feel free to contact me via email at **github@mazkdevf.it**.
 

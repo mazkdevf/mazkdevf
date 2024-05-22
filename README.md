@@ -25,9 +25,6 @@ In my spare time, I enjoy spending time with my family and friends, playing, bik
 
 * I'm proud to introduce **[EducationGit](https://github.com/mazkdevf/EducationGit)**, a JavaScript class meticulously designed to empower developers with seamless access to the extensive benefits offered by the esteemed GitHub Education pack.
 
-* I serve as a Volunteer Free Will Manager for KeyAuth, where I actively assist the owner in various tasks related to administration, bot management, and backend development. After a discussion with the owner, we agreed that instead of financial compensation, I would receive links on the KeyAuth website to promote my own sites, thereby mutually benefiting both parties.
-
-
 ## Good Links!
 - **[Cyclic](https://app.cyclic.sh/#/join/mazkdevf)** - The free plan is great for prototyping new ideas, coming up with wild experiments, hosting personal projects, doing homework or building stuff for school. Best of all, it's free for a lifetime.
 

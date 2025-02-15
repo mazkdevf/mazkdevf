@@ -29,7 +29,6 @@ In my spare time, I enjoy spending time with my family and friends, driving, pla
 
 ## Good Links!
 - **[Cyclic](https://app.cyclic.sh/#/join/mazkdevf)** - The free plan is great for prototyping new ideas, coming up with wild experiments, hosting personal projects, doing homework or building stuff for school. Best of all, it's free for a lifetime.
-- **[FREE.FI DirectPay](https://free.fi/en/free-fi-directpay/?ref=https://github.com/mazkdevf)** - DirectPay is a service with which you do not need to start a company to receive income. Withdraw your income safely and in accordance with the regulations of the tax administration directly to your own account.
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazkdevf&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=mazkdevf%27s%20Github%20Statistics&theme=github_dark" />
